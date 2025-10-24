@@ -209,8 +209,17 @@ Westbury et al.'s (2021) systematic review revealed **predominance of cross-sect
 
 - Fundamentally limits strength of evidence for all food environment domains
 - Affects interpretation of [[External Domain Food Environment]] and [[Personal Domain Food Environment]] associations
-- Highlights need for methodological advancement in [[food-environments]] research
+- Highlights need for methodological advancement in food-environments research
 - Connects to broader challenges in establishing causality in social determinants of health research
+- Limits causal claims in [[Systematic Review Evidence Availability Diet LMIC]] - all 14 studies cross-sectional
+- Constrains [[Food Accessibility Strongest Evidence LMIC]] interpretation - 11 of 11 studies cross-sectional
+- Major problem in [[School Food Environment Diet Evidence LMIC]] - 18 of 20 studies cross-sectional
+- Worsened by [[HIC LMIC Food Environment Research Disparities]] - LMICs have even fewer longitudinal studies
+- Partly explains [[Evidence Gaps Personal Domain LMIC]] - some dimensions harder to measure cross-sectionally
+- Affects testing of [[Availability Precedes Accessibility Principle]] temporal assumptions
+- See [[Westbury2021]] for full systematic review documenting this limitation
+- Related to [[Turner2018]] framework needing longitudinal validation
+- Cannot establish temporal sequence between food environment exposure and outcomes
 
 ## Source
 

@@ -71,6 +71,12 @@ Westbury et al. (2021) synthesized evidence from 14 studies examining neighborho
 - Provides empirical evidence for theoretical availability-diet pathways
 - Complements [[Personal Domain Food Environment]] accessibility findings
 - Relevant for [[Nutrition transition]] dynamics in urban LMICs
+- Contrasts with [[Food Accessibility Strongest Evidence LMIC]] - availability has more evidence but accessibility more consistent
+- Methodologically limited by [[Cross-Sectional Design Limitations Food Environment]] - all studies cross-sectional
+- Addresses some gaps identified in [[HIC LMIC Food Environment Research Disparities]]
+- Strong evidence in neighborhoods, see also [[School Food Environment Diet Evidence LMIC]] for school settings
+- Related to [[Availability Precedes Accessibility Principle]] but provides empirical validation
+- Part of systematic review synthesis that also found [[Evidence Gaps Personal Domain LMIC]]
 
 ## Source
 

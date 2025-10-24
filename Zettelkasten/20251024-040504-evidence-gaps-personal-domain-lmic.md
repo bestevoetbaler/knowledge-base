@@ -149,9 +149,17 @@ Westbury et al.'s (2021) systematic review revealed **stark evidence gaps** for 
 ## Critical Relationships
 
 - Identifies major gap in [[Personal Domain Food Environment]] research
-- Contrasts with robust evidence for accessibility dimension
+- Contrasts with robust evidence for accessibility dimension in [[Food Accessibility Strongest Evidence LMIC]]
 - Questions completeness of Turner et al. (2018) framework for LMICs
 - Highlights need for LMIC-specific food environment theory development
+- Related to [[HIC LMIC Food Environment Research Disparities]] - these dimensions more studied in HICs
+- Partly explained by [[Cross-Sectional Design Limitations Food Environment]] - these dimensions harder to measure cross-sectionally
+- Contrasts sharply with strong availability evidence in [[Systematic Review Evidence Availability Diet LMIC]]
+- Shows uneven domain coverage also noted in [[School Food Environment Diet Evidence LMIC]]
+- Accessibility exception supports [[Availability Precedes Accessibility Principle]] importance
+- Gaps more severe than in [[External Domain Food Environment]] dimensions
+- See [[Westbury2021]] for full systematic review revealing these gaps
+- May relate to [[Personal Perceptions vs Proximity Food Environment]] understudying of perception measures
 
 ## Source
 

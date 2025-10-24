@@ -165,6 +165,14 @@ Westbury et al. (2021) highlight the **stark imbalance** between HIC and LMIC fo
 - Calls into question generalizability of [[External Domain Food Environment]] and [[Personal Domain Food Environment]] frameworks developed primarily in HICs
 - Emphasizes need for context-specific evidence for [[Nutrition transition]] interventions
 - Connects to broader global health equity and research justice issues
+- Explains why [[Evidence Gaps Personal Domain LMIC]] exist - LMIC research severely limited
+- Context for all findings in [[Systematic Review Evidence Availability Diet LMIC]] and [[Food Accessibility Strongest Evidence LMIC]]
+- Exacerbated by [[Cross-Sectional Design Limitations Food Environment]] - LMICs have even fewer longitudinal studies
+- Relevant to [[School Food Environment Diet Evidence LMIC]] - schools have most LMIC evidence but still limited
+- Related to [[Availability Precedes Accessibility Principle]] testing in different contexts
+- Shows need for LMIC-validated measures discussed in [[Westbury2021]]
+- Connected to [[Turner2018]] framework applicability questions
+- Affects interpretation of [[Personal Perceptions vs Proximity Food Environment]] in different contexts
 
 ## Source
 

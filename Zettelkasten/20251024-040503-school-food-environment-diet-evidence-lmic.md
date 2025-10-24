@@ -124,9 +124,16 @@ This aligns with Turner et al. (2018)'s external domain emphasis on availability
 ## Critical Relationships
 
 - Demonstrates [[External Domain Food Environment]] availability dimension in specific setting
-- Complements neighborhood food environment research
+- Complements neighborhood food environment research from [[Systematic Review Evidence Availability Diet LMIC]]
 - Relevant for [[Nutrition transition]] as schools become sites of unhealthy food exposure
 - Connects to broader child health and obesity prevention strategies
+- Shows availability more important than [[Food Accessibility Strongest Evidence LMIC]] in school settings (captive audience)
+- Limited by [[Cross-Sectional Design Limitations Food Environment]] - 18 of 20 studies cross-sectional
+- Part of evidence base addressing [[HIC LMIC Food Environment Research Disparities]]
+- Strong dietary evidence but weaker for BMI/health outcomes (6/11 studies)
+- Contrasts with [[Evidence Gaps Personal Domain LMIC]] - personal domain less studied in schools
+- Supports [[Availability Precedes Accessibility Principle]] in constrained choice environments
+- Related to [[Personal Domain Food Environment]] but limited by school context constraints
 
 ## Source
 

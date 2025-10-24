@@ -106,6 +106,13 @@ Westbury et al. (2021) found that **accessibility had the most consistent eviden
 - Complements but differs from [[External Domain Food Environment]] availability measures
 - Relates to [[Availability Precedes Accessibility Principle]] but shows accessibility may be more proximal predictor of behavior
 - Relevant for understanding [[Nutrition transition]] interventions in urban LMICs
+- More consistent than [[Systematic Review Evidence Availability Diet LMIC]] - 10/11 studies vs 10/14 studies
+- Challenged by [[Cross-Sectional Design Limitations Food Environment]] - cannot prove causality
+- Addressed in [[Evidence Gaps Personal Domain LMIC]] as rare well-studied personal domain dimension
+- Context differs from HICs as shown in [[HIC LMIC Food Environment Research Disparities]]
+- Complements [[School Food Environment Diet Evidence LMIC]] findings on availability
+- May interact with [[Personal Perceptions vs Proximity Food Environment]]
+- Less evidence than availability for BMI/obesity outcomes per [[Westbury2021]]
 
 ## Source
 
