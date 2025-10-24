@@ -1,0 +1,5 @@
+# Price vs Affordability Evidence HICs - Turner et al (2018:98) synthesize critical findings showing price more important than proximity
+
+Tags: #food #prices #affordability #proximity #evidence #obesity #HICs #Turner2018
+
+Price vs Affordability Evidence HICs - Turner et al (2018:98) synthesize critical findings showing price more important than proximity. Aggarwal et al (2014a) found price level of products at supermarket, rather than physical proximity, associated with higher fruit and vegetable intake. Drewnowski et al (2012) found price level associated with lower obesity prevalence. Authors conclude: 'whilst improving physical access to food vendors may be one strategy to deal with public health challenges such as obesity; improving the affordability of healthy foods is another critical factor that must be addressed'. Implication for LMICs: research must determine relative importance of availability, accessibility, and prices on dietary/nutrition/health outcomes across settings. Challenges assumption that proximity alone drives healthy eating
